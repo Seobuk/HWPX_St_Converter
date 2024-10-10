@@ -1,10 +1,10 @@
 # HWPX 스타일 변환기 v1.0
-![GitHub Release](https://img.shields.io/github/v/release/assafelovic/gpt-researcher?style=flat&logo=github)
-![GitHub Release](https://img.shields.io/github/v/release/yourusername/hwpx-style-converter?style=flat&logo=github)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/hwpx-style-converter)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/hwpx-style-converter)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/hwpx-style-converter)
-![GitHub License](https://img.shields.io/github/license/yourusername/hwpx-style-converter)
+![GitHub Release](https://img.shields.io/github/v/release/Seobuk/gpt-researcher?style=flat&logo=github)
+![GitHub Release](https://img.shields.io/github/v/release/Seobuk/hwpx-style-converter?style=flat&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/Seobuk/hwpx-style-converter)
+![GitHub Forks](https://img.shields.io/github/forks/Seobuk/hwpx-style-converter)
+![GitHub Stars](https://img.shields.io/github/stars/Seobuk/hwpx-style-converter)
+![GitHub License](https://img.shields.io/github/license/Seobuk/hwpx-style-converter)
 
 ## 개요
 HWPX 스타일 변환기는 HWPX 파일의 스타일을 수정하기 위해 설계된 Python 기반 도구입니다. 사용자가 HWPX 파일을 선택하고 처리할 수 있는 사용자 친화적인 GUI를 제공하며, `<hh:style>` 요소를 새 스타일로 교체할 수 있도록 해줍니다.
